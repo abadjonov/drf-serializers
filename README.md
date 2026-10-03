@@ -7,6 +7,7 @@
 GET    /api/categories/
 POST   /api/categories/
 GET    /api/categories/{id}/
+GET    /api/categories/{id}/products/
 PUT    /api/categories/{id}/
 PATCH  /api/categories/{id}/
 DELETE /api/categories/{id}/
